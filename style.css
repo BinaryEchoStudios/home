@@ -1,0 +1,21 @@
+*{padding:0;margin:0;color:white;font-family: Helvetica, sans-serif;}
+nav{
+    position: absolute;
+    width: calc(100% - 180px);
+    padding: 30px;
+
+    top: 20px;
+    margin: 0 60px;
+    background-color: black;
+    border-radius: 20px;
+}
+html{
+    background-color: rgb(19, 19, 19);
+}
+nav li{display: inline-block}
+nav h1{display: inline-block}
+nav ul{display: inline-block}
+nav header{display: inline-block}
+a{
+    text-decoration: none;
+}
